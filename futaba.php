@@ -741,14 +741,14 @@ function regist($name,$email,$sub,$comment,$url,$pwd,$upfile,$upfile_name,$resto
     }
 
     if(RENZOKU && $p && $time - $ltime < RENZOKU){
-      error("Error: Flood detected, post discarded.",$dest);
+      
     }
 
     if(RENZOKU && $p && $time - $ltime < RENZOKU2 && $upfile_name){
-      error("Error: Flood detected, file discarded.",$dest);
+     
     }
     if(RENZOKU && $p && $comment == $lcom && !$upfile_name){
-      error("Error: Flood detected.",$dest);
+     
     }
   }
 
