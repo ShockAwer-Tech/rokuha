@@ -11,7 +11,7 @@ define("LOGFILE", 'img.log');		//ログファイル名
 define("TREEFILE", 'tree.log');		//ログファイル名
 define("IMG_DIR", 'src/');		//画像保存ディレクトリ。futaba.phpから見て
 define("THUMB_DIR",'thumb/');		//サムネイル保存ディレクトリ
-define("TITLE", 'FutabaWall Imageboard');		//タイトル（<title>とTOP）
+define("TITLE", 'General');		//タイトル（<title>とTOP）
 define("HOME",  '../');			//「ホーム」へのリンク
 define("MAX_KB", '500');			//投稿容量制限 KB（phpの設定により2Mまで
 define("MAX_W",  '250');			//投稿サイズ幅（これ以上はwidthを縮小
@@ -20,9 +20,9 @@ define("PAGE_DEF", '5');			//一ページに表示する記事
 define("LOG_MAX",  '500');		//ログ最大行数
 define("ADMIN_PASS", 'admin_pass');	//管理者パス
 define("RE_COL", '789922');               //＞が付いた時の色
-define("PHP_SELF", 'futaba.php');	//このスクリプト名
-define("PHP_SELF2", 'index.html');	//入り口ファイル名
-define("PHP_EXT", '.html');		//1ページ以降の拡張子
+define("PHP_SELF", 'rokuha.php');	//このスクリプト名
+define("PHP_SELF2", 'rokuha.htm');	//入り口ファイル名
+define("PHP_EXT", '.htm');		//1ページ以降の拡張子
 define("RENZOKU", '5');			//連続投稿秒数
 define("RENZOKU2", '10');		//画像連続投稿秒数
 define("MAX_RES", '30');		//強制sageレス数
