@@ -1,5 +1,5 @@
 # What is rokuha?
-rokuha is the fork of futabawall that runs on rokuha channel.
+rokuha is the fork of futabawall that runs on rokuha channel. the temp domain for rokuha channel is [at rokuha.ztat.us](http://rokuha.ztat.us/)
 
 # Instructions
 1. Open rokuha.php.
