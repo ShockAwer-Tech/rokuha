@@ -8,7 +8,7 @@ rokuha is the fork of futabawall that runs on rokuha channel.
 
 3. Upload the 3 php files.
 
-4. 
+4. Chmod 777 the src, thumb, and main folder.
 You are done!
 
 # Credits
