@@ -8,6 +8,7 @@ rokuha is the fork of futabawall that runs on rokuha channel.
 
 3. Upload the 3 php files.
 
+4. 
 You are done!
 
 # Credits
