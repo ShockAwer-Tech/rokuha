@@ -12,6 +12,7 @@ You are done!
 
 # Credits
 [outrunning for making futabawall](https://github.com/outrunning/futabawall)
+
 [futoase for making futaba-ng](https://github.com/futoase/futaba-ng)
 
 [futallaby for english strings](http://1chan.net/futallaby/)
